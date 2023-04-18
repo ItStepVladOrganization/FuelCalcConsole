@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_Fuel_Console", "Calc_Fuel_Console\Calc_Fuel_Console.csproj", "{BFD780A6-584D-4DDC-9E19-3A8FF3442D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD780A6-584D-4DDC-9E19-3A8FF3442D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD780A6-584D-4DDC-9E19-3A8FF3442D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD780A6-584D-4DDC-9E19-3A8FF3442D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD780A6-584D-4DDC-9E19-3A8FF3442D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4CB8B2-1428-4D64-BEC4-F1719ED499A2}
+	EndGlobalSection
+EndGlobal
