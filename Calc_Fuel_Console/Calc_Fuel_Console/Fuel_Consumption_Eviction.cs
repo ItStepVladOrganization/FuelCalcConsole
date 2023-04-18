@@ -17,5 +17,11 @@ namespace Calc_Fuel_Console
         {
             return (Distance / 100) * AverageFuelConsumption;
         }
+        public float FilterInput(string input)
+        {
+            if (float.TryParse(input, out float target))
+                return float.Parse(input);
+            return 0;
+        }
     }
 }
